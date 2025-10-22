@@ -31,6 +31,7 @@ a.   KVL:
 
 
 b.  KCL:
+
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
 3.   Check all the meters for null position.
@@ -43,31 +44,38 @@ CIRCUIT DIAGRAM:
 CIRCUIT DIAGRAM:
 
 
-a.   KVL:
+a.   KVL:![WhatsApp Image 2025-10-22 at 23 53 26_51cc0e17](https://github.com/user-attachments/assets/03ece9b9-8f3c-49cb-aa99-653058c586f1)
+
  
 
 
-b.  KCL:
+b.  KCL:![WhatsApp Image 2025-10-22 at 23 53 26_b715d8f9](https://github.com/user-attachments/assets/37b37d5c-b63c-4153-a439-5e227683d416)
  
 
 Calculation:
 
-a.   KVL:
+a.   KVL:<img width="288" height="527" alt="image" src="https://github.com/user-attachments/assets/5d00f715-b0c6-422d-9312-3ee6c22e66ce" /><img width="288" height="527" alt="image" src="https://github.com/user-attachments/assets/a5c7a1a1-d383-4257-b4b2-450d07ec81ad" />
+
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="401" height="677" alt="image" src="https://github.com/user-attachments/assets/4ff5e0d5-8177-4449-99de-50d8593e77d4" /><img width="401" height="677" alt="image" src="https://github.com/user-attachments/assets/1a964a7d-4a80-4f92-924f-b73c98ff2676" />
+
+
 
 
 
 
 Tabulation:
 
-a.   KVL:
+a.   KVL:<img width="320" height="546" alt="image" src="https://github.com/user-attachments/assets/27058735-7ae5-4cc0-be97-4d75644ac691" />
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="282" height="775" alt="image" src="https://github.com/user-attachments/assets/27ecfd86-6e24-4a8d-8616-ed16ee750026" />
+
 
 
 
