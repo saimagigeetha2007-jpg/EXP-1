@@ -69,7 +69,8 @@ a.   KVL:<img width="282" height="747" alt="image" src="https://github.com/user-
 b.  KCL:<img width="292" height="543" alt="image" src="https://github.com/user-attachments/assets/9599da4f-d909-4228-b592-46e9c6efc337" />
 <img width="360" height="655" alt="image" src="https://github.com/user-attachments/assets/e9f737da-bff7-49c7-801a-adda92314f15" />
 
-
+DONE BY:HEMANTH SAI.M
+REGISTER NO:25007924
 
 
 
